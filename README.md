@@ -6,7 +6,7 @@ Your job is to create a program which given a single five card poker hand ranks 
 
 A poker deck contains 52 cards - each card has a suit which is one of Clubs, Diamonds, Hearts, or Spades (denoted ♣, ♦,
 ♥, and ♠ in the input data or alternatively as C, D, H, S). Each card also has a value which is one of 2, 3, 4, 5, 6, 7,
-8, 9, 10, Jack, Queen, King, Ace (denoted 2, 3, 4, 5, 6, 7, 8, 9, T, J, Q, K, A). 
+8, 9, 10, Jack, Queen, King, Ace (denoted 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A). 
 
 A poker hand consists of 5 cards ranked as follows:
 
